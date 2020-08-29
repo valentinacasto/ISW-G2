@@ -1,7 +1,7 @@
 # ISW GRUPO 2 - 4K1 
 
 Integrantes:
-  - Casto, Valentina Maria 76911
+  - Casto, Valentina María 76911
   - Juárez, Lourdes Agustina 7617
   - Penzo, Belén María Milagros 75268
   - Pessah, Carolina 74914
