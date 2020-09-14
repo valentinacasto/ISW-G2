@@ -7,12 +7,5 @@ Integrantes:
   - Pessah, Carolina            74914
   - Pigino, María Sofía         74913
   - Sierra, María Jimena        76245
-  
+   
 Este repositorio está destinado al seguimiento de la materia Ingeniería de Software de la Universidad Tecnológica Nacional - Facultad Regional Córdoba
-
- __        __ _                      _         _     
- \ \      / /(_) _ __  __  __   ___ | | _   _ | |__  
-  \ \ /\ / / | || '_ \ \ \/ /  / __|| || | | || '_ \ 
-   \ V  V /  | || | | | >  <  | (__ | || |_| || |_) |
-    \_/\_/   |_||_| |_|/_/\_\  \___||_| \__,_||_.__/ 
-                                                     
