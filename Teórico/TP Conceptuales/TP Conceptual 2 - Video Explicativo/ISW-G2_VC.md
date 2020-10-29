@@ -26,3 +26,4 @@ _Video explicativo del tema Design Thinking en el contexto de la unidad 2_
 * [Interaction Design Foundation](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular) - What is Design Thinking and Why Is It So Popular?
 * Understanding Design Thinking, Lean, and Agile - Jonny Schneider 
 * [Airbnb](https://www.bbva.com/es/airbnb-caso-exito-design-thinking/), un caso de éxito de Design Thinking 
+*
